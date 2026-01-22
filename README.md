@@ -21,7 +21,8 @@ Este programa en Java analiza un conjunto de números almacenados en un array pa
 El array utilizado en el programa es:
 ```java
 int[] d = {4, 7, 2, 9, 2, 5};
-``
+```
+
 
 
 
