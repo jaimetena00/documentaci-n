@@ -19,5 +19,6 @@ El array utilizado en el programa es:
 ```java
 int[] d = {4, 7, 2, 9, 2, 5};
 
+
 ## Autor
 Jaime
