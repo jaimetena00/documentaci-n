@@ -1,5 +1,8 @@
 # documentación
 
+## Autor
+Jaime
+
 # Análisis de números en un array (Java)
 
 ## Descripción
@@ -20,5 +23,4 @@ El array utilizado en el programa es:
 int[] d = {4, 7, 2, 9, 2, 5};
 
 
-## Autor
-Jaime
+
