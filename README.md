@@ -21,6 +21,9 @@ El array utilizado en el programa es:
 int[] d = {4, 7, 2, 9, 2, 5};
 ```
 
+## Cómo ejecutar
+Descargar y abrir en cualquier compilador de java.
+
 ## Autor
 Jaime
 
